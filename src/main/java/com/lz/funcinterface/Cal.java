@@ -1,5 +1,6 @@
 package com.lz.funcinterface;
 
+
 /**
  * 函数式接口
  * @author lz
